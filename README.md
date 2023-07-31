@@ -1,4 +1,4 @@
-# Applied Data Analsyis: A Psychosocial Statistical Investigation
+# Applied Data Analysis: A Psychosocial Statistical Investigation
 
 ## A Psychosocial Investigation on Family History of Suicide
 
